@@ -1,3 +1,16 @@
+This is a counter-app which depict the basic functionalities of a shopping cart.
+
+User will see multiple items listed with thier count.
+
+User can click on '-' and '+' button to decrease or increase the number of corresponding item.
+
+user can click on 'Delete' button to delete any item from the cart.
+
+User can click on 'Reset' button which sets the number of all items to zero.
+
+A counter at the top displays number of items having positive quantities in the cart.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
